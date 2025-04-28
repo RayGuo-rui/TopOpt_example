@@ -7,7 +7,7 @@ from skimage import measure
 
 
 ### load structure data using np.loadtxt
-op_str = # complete the code here
+op_str = np.loadtxt("results/voxel_data.txt") 
 
 ### preprocessing the data
 
